@@ -1,0 +1,10 @@
+{
+    "name": "gallery-bootstrap-tooltip",
+    "builds": {
+        "gallery-bootstrap-tooltip": {
+            "jsfiles": [
+                "bootstrap-tooltip.js"
+            ]
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "bootsgtrap-gallery-tooltip": {
+        "use": [
+            "anim",
+            "base",
+            "event",
+            "event-delegate",
+            "plugin",
+            "transition",
+            "transition",
+            "widget",
+            "widget-position",
+            "widget-position-align",
+            "widget-position-constrain",
+            "widget-stack"
+        ]
+    }
+}
